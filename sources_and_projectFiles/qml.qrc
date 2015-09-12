@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Chess.ico</file>
+    </qresource>
+    <qresource prefix="/chess">
+        <file>chess/bTower.png</file>
+        <file>chess/bHorse.png</file>
+        <file>chess/bBishop.png</file>
+        <file>chess/bPawn.png</file>
+        <file>chess/wBishop.png</file>
+        <file>chess/wHorse.png</file>
+        <file>chess/wKing.png</file>
+        <file>chess/wPawn.png</file>
+        <file>chess/wQueen.png</file>
+        <file>chess/wTower.png</file>
+        <file>chess/bKing.png</file>
+        <file>chess/bQueen.png</file>
+    </qresource>
+</RCC>
